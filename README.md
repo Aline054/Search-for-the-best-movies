@@ -1,7 +1,7 @@
 # Search-for-the-best-movies
 Application made using APIs to search the best movies bringing, bringing the details of each.
 
-To start the project I used the command  npm create vite@latest With this command you will install Vite in your project.
+To start the project I used the command  #npm create vite@latest With this command you will install Vite in your project.
 
 Then I installed npm install to boot.
 
