@@ -1,14 +1,14 @@
 
 No diretório do projeto, você pode executar:
 
-### `npm create vite@latest` 
+ `npm create vite@latest` 
 Terá o Vite instalado no seu projeto.
 
-##`npm install`
+`npm install`
 
-###`npm install react-icons react-router-dom`
+`npm install react-icons react-router-dom`
  
- ###`npm run dev`
+`npm run dev`
 
 Executa o aplicativo no modo de desenvolvimento.
 Abra http://127.0.0.1:5173/ para visualizá-lo em seu navegador.
